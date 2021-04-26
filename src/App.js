@@ -6,7 +6,6 @@ import PieChart from './components/piechart'
 import GraphContainer, { HoverSentContext } from './components/graphContainer'
 import '../node_modules/@ibm/plex/css/ibm-plex.css';
 import NetSentiment from './components/netsentiment'
-import Login from './components/login'
 import Navbar from './components/Navbar'
 
 /*
@@ -19,7 +18,6 @@ import data from './data/anonymData.json'
 
 export const SentimentContext = createContext({})
 export const HoverContext = createContext({})
-export const UserContext = createContext({})
 export const GroupByContext = createContext({})
 
 
@@ -27,7 +25,6 @@ function App() {
 
   const [choosenSentiment, setChoosenSentiment] = useState(data.children[0])
   const [hover, setHover] = useState([])
-  const [isUser, setIsUser] = useState(null)
   const [groupByChannel, setGroupByChannel] = useState(true)
 
 
@@ -36,8 +33,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <UserContext.Provider value ={{isUser, setIsUser}}>
-    {isUser === null ? <Login></Login>:
 
       <SentimentContext.Provider value = {{choosenSentiment, setChoosenSentiment}}>
       <HoverContext.Provider value = {{hover, setHover}}>
@@ -58,10 +53,8 @@ function App() {
           </GroupByContext.Provider>
         </HoverContext.Provider>
         </SentimentContext.Provider>
-    }
+    
       
-
-        </UserContext.Provider>
         
       </header>
     </div>
