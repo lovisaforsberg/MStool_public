@@ -1,0 +1,172 @@
+
+
+  .x.axis path,
+  .x.axis line {
+    stroke: #4d4d4d;
+  }
+
+  .y.axis path,
+  .y.axis line {
+    stroke: #4d4d4d;
+  }
+  
+  text{
+    font-family: IBM Plex Sans;
+    color: #4d4d4d;
+
+  }
+
+  #netSentiment{
+    overflow: visible;
+  }
+
+  .checkbox_info{
+    font-size: 15px;
+  }
+
+  .checkboxInfoContainer{
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+
+  /*BUTTON STYLE*/
+
+  .netButtonInactive{
+    background: #E5E5E5;
+    border-radius: 5px;
+    color: #132533;
+    font-style: normal;
+    font-weight: normal;
+    border: none;
+    font-family: IBM Plex Sans;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 10px;
+    padding:5px;
+}
+
+.netButtonActive{
+  background: #132533;
+  border-radius: 5px;
+  color: white;
+  font-style: normal;
+  font-weight: normal;
+  border: none;
+  font-family: IBM Plex Sans;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 10px;
+  padding:5px;
+}
+
+.netButtonActiveRed{
+  background: #D61016;
+  border-radius: 5px;
+  color: white;
+  font-style: normal;
+  font-weight: normal;
+  border: none;
+  font-family: IBM Plex Sans;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 10px;
+  padding:5px;
+}
+
+
+
+
+  /* TEXT STYLE */
+  .NetHeadline{
+    color: #4d4d4d;
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .NetFormula{
+    color: #4d4d4d;
+    font-size: 12px;
+    text-align: left;
+    width: 250px;
+  }
+
+  .checkLabel{
+    color: #4d4d4d;
+    font-size: 12px;
+
+  }
+  .weightText{
+    color: #4d4d4d;
+    font-size: 12px;
+    width: 100px;
+    text-align: right;
+  }
+  .weightInput{
+    color: #4d4d4d;
+    font-size: 12px;
+    width: 30px;
+  }
+
+  /* FLEX AND ALIGNMENT*/
+
+  .graphContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .NetContainer{
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid rgb(187, 187, 187);
+    margin-top: 20px;
+    padding-top: 20px;
+  }
+
+  .textContainerNet{
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .AllCheckboxContainer{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 20px;
+    margin-top:10px
+
+  }
+
+  .CheckboxActive{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .CheckboxInactive{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-between;
+    opacity: 0.5;
+  }
+
+  .weightsContainer{
+    display: flex;
+    flex-direction: row;
+
+  }
+
+  .markBtnContainer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+
+
+

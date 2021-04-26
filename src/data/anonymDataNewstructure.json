@@ -1,0 +1,2351 @@
+{
+    "name": "all",
+    "pos": 28.2,
+    "neg": 7.0,
+    "neu": 64.8,
+    "sentiment": [
+        {
+            "title": "Positive",
+            "value": 28.2
+        },
+        {
+            "title": "Negative",
+            "value": 7.0
+        },
+        {
+            "title": "Neutral",
+            "value": 64.8
+        }
+    ],
+    "children": [
+        {
+            "name": "doctors",
+            "pos": 23.0,
+            "neg": 5.5,
+            "neu": 71.5,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 23.0
+                },
+                {
+                    "title": "Negative",
+                    "value": 5.5
+                },
+                {
+                    "title": "Neutral",
+                    "value": 71.5
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 24.0,
+                    "neg": 5.0,
+                    "neu": 71.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 24.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 5.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 71.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "DOCTOR ROBERT (facebook)",
+                            "category": "Doctors",
+                            "comments": 159,
+                            "likes": 2000,
+                            "shares": 64,
+                            "eng_tot": 2223,
+                            "eng_rate": 0.00019,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-21-21 8:02 fm",
+                            "pos": 24,
+                            "neg": 5,
+                            "neu": 71,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 24
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 5
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 71
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 22.0,
+                    "neg": 6.0,
+                    "neu": 72.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 22.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 6.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 72.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "DOCTOR ROBERT (twitter)",
+                            "category": "Doctors",
+                            "comments": 163,
+                            "likes": 8700,
+                            "shares": 287,
+                            "eng_tot": 9150,
+                            "eng_rate": 0.00209,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-21 16:02 +0000",
+                            "pos": 22,
+                            "neg": 6,
+                            "neu": 72,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 22
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 6
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 72
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "revolution",
+            "pos": 21.0,
+            "neg": 6.75,
+            "neu": 72.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 21.0
+                },
+                {
+                    "title": "Negative",
+                    "value": 6.75
+                },
+                {
+                    "title": "Neutral",
+                    "value": 72.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 21.5,
+                    "neg": 3.5,
+                    "neu": 75.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 21.5
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 3.5
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 75.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "REVOLUTION 1 (facebook)",
+                            "category": "Revolution",
+                            "comments": 109,
+                            "likes": 1700,
+                            "shares": 51,
+                            "eng_tot": 1860,
+                            "eng_rate": 0.00016,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-28-21 10:30 fm",
+                            "pos": 26,
+                            "neg": 4,
+                            "neu": 70,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 26
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 4
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 70
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        },
+                        {
+                            "name": "REVOLUTION 9 (facebook)",
+                            "category": "Revolution",
+                            "comments": 251,
+                            "likes": 3100,
+                            "shares": 119,
+                            "eng_tot": 3470,
+                            "eng_rate": 0.0003,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-1-21 8:00 fm",
+                            "pos": 17,
+                            "neg": 3,
+                            "neu": 80,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 17
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 3
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 80
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 20.5,
+                    "neg": 10.0,
+                    "neu": 69.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 20.5
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 10.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 69.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "REVOLUTION 1 (twitter)",
+                            "category": "Revolution",
+                            "comments": 133,
+                            "likes": 6000,
+                            "shares": 200,
+                            "eng_tot": 6333,
+                            "eng_rate": 0.00145,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-28 18:30 +0000",
+                            "pos": 23,
+                            "neg": 12,
+                            "neu": 64,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 23
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 12
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 64
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        },
+                        {
+                            "name": "REVOLUTION 9 (twitter)",
+                            "category": "Revolution",
+                            "comments": 199,
+                            "likes": 6400,
+                            "shares": 205,
+                            "eng_tot": 6804,
+                            "eng_rate": 0.00156,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-01 16:00 +0000",
+                            "pos": 18,
+                            "neg": 8,
+                            "neu": 74,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 18
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 8
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 74
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "can be found in liverpool",
+            "pos": 25.666666666666668,
+            "neg": 11.666666666666666,
+            "neu": 62.666666666666664,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 25.666666666666668
+                },
+                {
+                    "title": "Negative",
+                    "value": 11.666666666666666
+                },
+                {
+                    "title": "Neutral",
+                    "value": 62.666666666666664
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 24.333333333333332,
+                    "neg": 8.0,
+                    "neu": 68.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 24.333333333333332
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 8.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 68.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "PENNY LANE (facebook)",
+                            "category": "Can be found in Liverpool",
+                            "comments": 246,
+                            "likes": 2700,
+                            "shares": 126,
+                            "eng_tot": 3072,
+                            "eng_rate": 0.00026,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-28-21 9:02 fm",
+                            "pos": 27,
+                            "neg": 4,
+                            "neu": 69,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 27
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 4
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 69
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        },
+                        {
+                            "name": "STRAWBERRY FIELDS FOREVER (facebook)",
+                            "category": "Can be found in Liverpool",
+                            "comments": 581,
+                            "likes": 4200,
+                            "shares": 304,
+                            "eng_tot": 5085,
+                            "eng_rate": 0.00043,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-20-21 10:01 fm",
+                            "pos": 24,
+                            "neg": 5,
+                            "neu": 72,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 24
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 5
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 72
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        },
+                        {
+                            "name": "ELEANOR RIGBY (facebook)",
+                            "category": "Can be found in Liverpool",
+                            "comments": 517,
+                            "likes": 3100,
+                            "shares": 231,
+                            "eng_tot": 3848,
+                            "eng_rate": 0.00033,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-20-21 8:01 fm",
+                            "pos": 22,
+                            "neg": 15,
+                            "neu": 63,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 22
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 15
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 63
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 27.0,
+                    "neg": 15.333333333333334,
+                    "neu": 57.333333333333336,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 27.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 15.333333333333334
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 57.333333333333336
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "PENNY LANE (twitter)",
+                            "category": "Can be found in Liverpool",
+                            "comments": 39,
+                            "likes": 8428,
+                            "shares": 374,
+                            "eng_tot": 8841,
+                            "eng_rate": 0.00202,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-28 17:02 +0000",
+                            "pos": 23,
+                            "neg": 12,
+                            "neu": 64,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 23
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 12
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 64
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        },
+                        {
+                            "name": "STRAWBERRY FIELDS FOREVER (twitter)",
+                            "category": "Can be found in Liverpool",
+                            "comments": 90,
+                            "likes": 9666,
+                            "shares": 600,
+                            "eng_tot": 10356,
+                            "eng_rate": 0.00237,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-20 18:01 +0000",
+                            "pos": 40,
+                            "neg": 9,
+                            "neu": 51,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 40
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 9
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 51
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        },
+                        {
+                            "name": "ELEANOR RIGBY (twitter)",
+                            "category": "Can be found in Liverpool",
+                            "comments": 3200,
+                            "likes": 61100,
+                            "shares": 5300,
+                            "eng_tot": 69600,
+                            "eng_rate": 0.01591,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-20 16:01 +0000",
+                            "pos": 18,
+                            "neg": 25,
+                            "neu": 57,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 18
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 25
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 57
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "george harrison",
+            "pos": 19.5,
+            "neg": 15.5,
+            "neu": 65.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 19.5
+                },
+                {
+                    "title": "Negative",
+                    "value": 15.5
+                },
+                {
+                    "title": "Neutral",
+                    "value": 65.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 26.0,
+                    "neg": 4.0,
+                    "neu": 70.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 26.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 4.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 70.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "HERE COMES THE SUN (facebook)",
+                            "category": "George Harrison",
+                            "comments": 257,
+                            "likes": 3300,
+                            "shares": 147,
+                            "eng_tot": 3704,
+                            "eng_rate": 0.00032,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-4-21 10:02 fm",
+                            "pos": 26,
+                            "neg": 4,
+                            "neu": 70,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 26
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 4
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 70
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 13.0,
+                    "neg": 27.0,
+                    "neu": 60.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 13.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 27.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 60.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "SOMETHING (twitter)",
+                            "category": "George Harrison",
+                            "comments": 36,
+                            "likes": 7721,
+                            "shares": 308,
+                            "eng_tot": 8065,
+                            "eng_rate": 0.00184,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-04 18:02 +0000",
+                            "pos": 13,
+                            "neg": 27,
+                            "neu": 60,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 13
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 27
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 60
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "ringo's singing lead",
+            "pos": 26.5,
+            "neg": 10.5,
+            "neu": 63.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 26.5
+                },
+                {
+                    "title": "Negative",
+                    "value": 10.5
+                },
+                {
+                    "title": "Neutral",
+                    "value": 63.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 36.5,
+                    "neg": 1.5,
+                    "neu": 62.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 36.5
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 1.5
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 62.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "WITH A LITTLE HELP FROM MY FRIENDS (facebook)",
+                            "category": "Ringo's singing lead",
+                            "comments": 210,
+                            "likes": 2900,
+                            "shares": 125,
+                            "eng_tot": 3235,
+                            "eng_rate": 0.00028,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-25-21 11:00 fm",
+                            "pos": 44,
+                            "neg": 2,
+                            "neu": 54,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 44
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 2
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 54
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        },
+                        {
+                            "name": "YELLOW SUBMARINE (facebook)",
+                            "category": "Ringo's singing lead",
+                            "comments": 260,
+                            "likes": 3700,
+                            "shares": 216,
+                            "eng_tot": 4176,
+                            "eng_rate": 0.00036,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-18-21 11:00 fm",
+                            "pos": 29,
+                            "neg": 1,
+                            "neu": 70,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 29
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 1
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 70
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 16.5,
+                    "neg": 19.5,
+                    "neu": 64.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 16.5
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 19.5
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 64.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "ACT NATURALLY (twitter)",
+                            "category": "Ringo's singing lead",
+                            "comments": 48,
+                            "likes": 6696,
+                            "shares": 253,
+                            "eng_tot": 6997,
+                            "eng_rate": 0.0016,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-25 19:00 +0000",
+                            "pos": 20,
+                            "neg": 12,
+                            "neu": 68,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 20
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 12
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 68
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        },
+                        {
+                            "name": "WHAT GOES ON? (twitter)",
+                            "category": "Ringo's singing lead",
+                            "comments": 187,
+                            "likes": 3700,
+                            "shares": 176,
+                            "eng_tot": 4063,
+                            "eng_rate": 0.00093,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-18 19:00 +0000",
+                            "pos": 13,
+                            "neg": 27,
+                            "neu": 60,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 13
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 27
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 60
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "julia/julian",
+            "pos": 23.0,
+            "neg": 8.5,
+            "neu": 68.5,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 23.0
+                },
+                {
+                    "title": "Negative",
+                    "value": 8.5
+                },
+                {
+                    "title": "Neutral",
+                    "value": 68.5
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 26.0,
+                    "neg": 5.0,
+                    "neu": 69.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 26.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 5.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 69.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "JULIA (facebook)",
+                            "category": "Julia/Julian",
+                            "comments": 138,
+                            "likes": 2500,
+                            "shares": 103,
+                            "eng_tot": 2741,
+                            "eng_rate": 0.00023,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-12-21 10:30 fm",
+                            "pos": 26,
+                            "neg": 5,
+                            "neu": 69,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 26
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 5
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 69
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 20.0,
+                    "neg": 12.0,
+                    "neu": 68.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 20.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 12.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 68.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "HEY JUDE (twitter)",
+                            "category": "Julia/Julian",
+                            "comments": 20,
+                            "likes": 6254,
+                            "shares": 244,
+                            "eng_tot": 6518,
+                            "eng_rate": 0.00149,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-12 18:30 +0000",
+                            "pos": 20,
+                            "neg": 12,
+                            "neu": 68,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 20
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 12
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 68
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "cry",
+            "pos": 23.5,
+            "neg": 2.5,
+            "neu": 74.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 23.5
+                },
+                {
+                    "title": "Negative",
+                    "value": 2.5
+                },
+                {
+                    "title": "Neutral",
+                    "value": 74.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 28.0,
+                    "neg": 2.0,
+                    "neu": 70.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 28.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 2.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 70.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "CRY, BABY CRY (facebook)",
+                            "category": "Cry",
+                            "comments": 129,
+                            "likes": 2000,
+                            "shares": 76,
+                            "eng_tot": 2205,
+                            "eng_rate": 0.00019,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-14-21 8:02 fm",
+                            "pos": 28,
+                            "neg": 2,
+                            "neu": 70,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 28
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 2
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 70
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 19.0,
+                    "neg": 3.0,
+                    "neu": 78.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 19.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 3.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 78.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "CRY, BABY CRY (twitter)",
+                            "category": "Cry",
+                            "comments": 238,
+                            "likes": 7800,
+                            "shares": 265,
+                            "eng_tot": 8303,
+                            "eng_rate": 0.0019,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-14 16:02 +0000",
+                            "pos": 19,
+                            "neg": 3,
+                            "neu": 78,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 19
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 3
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 78
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "animals",
+            "pos": 24.0,
+            "neg": 9.0,
+            "neu": 67.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 24.0
+                },
+                {
+                    "title": "Negative",
+                    "value": 9.0
+                },
+                {
+                    "title": "Neutral",
+                    "value": 67.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "facebook",
+                    "pos": 24.25,
+                    "neg": 7.75,
+                    "neu": 68.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 24.25
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 7.75
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 68.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "HEY BULLDOG (facebook)",
+                            "category": "Animals",
+                            "comments": 134,
+                            "likes": 1900,
+                            "shares": 72,
+                            "eng_tot": 2106,
+                            "eng_rate": 0.00018,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-26-21 8:03 fm",
+                            "pos": 20,
+                            "neg": 10,
+                            "neu": 70,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 20
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 10
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 70
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        },
+                        {
+                            "name": "OCTOPUS'S GARDEN (facebook)",
+                            "category": "Animals",
+                            "comments": 188,
+                            "likes": 2400,
+                            "shares": 104,
+                            "eng_tot": 2692,
+                            "eng_rate": 0.00023,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-22-21 8:03 fm",
+                            "pos": 28,
+                            "neg": 2,
+                            "neu": 70,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 28
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 2
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 70
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        },
+                        {
+                            "name": "ROCKY RACCOON (facebook)",
+                            "category": "Animals",
+                            "comments": 234,
+                            "likes": 1600,
+                            "shares": 40,
+                            "eng_tot": 1874,
+                            "eng_rate": 0.00016,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-15-21 8:00 fm",
+                            "pos": 27,
+                            "neg": 4,
+                            "neu": 69,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 27
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 4
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 69
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        },
+                        {
+                            "name": "I AM THE WALRUS (facebook)",
+                            "category": "Animals",
+                            "comments": 210,
+                            "likes": 3000,
+                            "shares": 126,
+                            "eng_tot": 3336,
+                            "eng_rate": 0.00028,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "1-29-21 8:02 fm",
+                            "pos": 22,
+                            "neg": 15,
+                            "neu": 63,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 22
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 15
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 63
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 11753005,
+                            "channel": "facebook"
+                        }
+                    ],
+                    "color": "#4C4756"
+                },
+                {
+                    "name": "twitter",
+                    "pos": 23.75,
+                    "neg": 10.25,
+                    "neu": 66.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 23.75
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 10.25
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 66.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "BLACKBIRD (twitter)",
+                            "category": "Animals",
+                            "comments": 156,
+                            "likes": 6600,
+                            "shares": 226,
+                            "eng_tot": 6982,
+                            "eng_rate": 0.0016,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-26 16:03 +0000",
+                            "pos": 18,
+                            "neg": 25,
+                            "neu": 57,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 18
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 25
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 57
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        },
+                        {
+                            "name": "AND YOUR BIRD CAN SING (twitter)",
+                            "category": "Animals",
+                            "comments": 187,
+                            "likes": 17800,
+                            "shares": 303,
+                            "eng_tot": 18290,
+                            "eng_rate": 0.00418,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-22 16:03 +0000",
+                            "pos": 17,
+                            "neg": 5,
+                            "neu": 78,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 17
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 5
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 78
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        },
+                        {
+                            "name": "MARTHA MY DEAR (twitter)",
+                            "category": "Animals",
+                            "comments": 247,
+                            "likes": 5200,
+                            "shares": 181,
+                            "eng_tot": 5628,
+                            "eng_rate": 0.00129,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-15 16:00 +0000",
+                            "pos": 20,
+                            "neg": 2,
+                            "neu": 78,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 20
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 2
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 78
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        },
+                        {
+                            "name": "DIG A PONY (twitter)",
+                            "category": "Animals",
+                            "comments": 206,
+                            "likes": 8600,
+                            "shares": 369,
+                            "eng_tot": 9175,
+                            "eng_rate": 0.0021,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-29 16:02 +0000",
+                            "pos": 40,
+                            "neg": 9,
+                            "neu": 51,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 40
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 9
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 51
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4374031,
+                            "channel": "twitter"
+                        }
+                    ],
+                    "color": "#402425"
+                }
+            ]
+        },
+        {
+            "name": "featured in mad men",
+            "pos": 33.0,
+            "neg": 7.0,
+            "neu": 60.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 33.0
+                },
+                {
+                    "title": "Negative",
+                    "value": 7.0
+                },
+                {
+                    "title": "Neutral",
+                    "value": 60.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "instagram",
+                    "pos": 33.0,
+                    "neg": 7.0,
+                    "neu": 60.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 33.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 7.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 60.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "TOMORROW NEVER KNOWS (instagram)",
+                            "category": "Featured in Mad Men",
+                            "comments": 1440,
+                            "likes": 242171,
+                            "shares": 0,
+                            "eng_tot": 243611,
+                            "eng_rate": 0.04915,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-13",
+                            "pos": 33,
+                            "neg": 7,
+                            "neu": 60,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 33
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 7
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 60
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4956854,
+                            "channel": "instagram"
+                        }
+                    ],
+                    "color": "#374737"
+                }
+            ]
+        },
+        {
+            "name": "norway",
+            "pos": 25.0,
+            "neg": 9.0,
+            "neu": 66.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 25.0
+                },
+                {
+                    "title": "Negative",
+                    "value": 9.0
+                },
+                {
+                    "title": "Neutral",
+                    "value": 66.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "instagram",
+                    "pos": 25.0,
+                    "neg": 9.0,
+                    "neu": 66.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 25.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 9.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 66.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "NORWEGIAN WOOD (instagram)",
+                            "category": "Norway",
+                            "comments": 2551,
+                            "likes": 572610,
+                            "shares": 0,
+                            "eng_tot": 575161,
+                            "eng_rate": 0.11603,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-20",
+                            "pos": 25,
+                            "neg": 9,
+                            "neu": 66,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 25
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 9
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 66
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4956854,
+                            "channel": "instagram"
+                        }
+                    ],
+                    "color": "#374737"
+                }
+            ]
+        },
+        {
+            "name": "instrumentals",
+            "pos": 47.0,
+            "neg": 7.0,
+            "neu": 46.0,
+            "sentiment": [
+                {
+                    "title": "Positive",
+                    "value": 47.0
+                },
+                {
+                    "title": "Negative",
+                    "value": 7.0
+                },
+                {
+                    "title": "Neutral",
+                    "value": 46.0
+                }
+            ],
+            "children": [
+                {
+                    "name": "instagram",
+                    "pos": 47.0,
+                    "neg": 7.0,
+                    "neu": 46.0,
+                    "sentiment": [
+                        {
+                            "title": "Positive",
+                            "value": 47.0
+                        },
+                        {
+                            "title": "Negative",
+                            "value": 7.0
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": 46.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "SUN KING (instagram)",
+                            "category": "Instrumentals",
+                            "comments": 2420,
+                            "likes": 386579,
+                            "shares": 1007180,
+                            "eng_tot": 388999,
+                            "eng_rate": 0.07848,
+                            "link": "https://en.wikipedia.org/wiki/The_Beatles",
+                            "post_content": "content",
+                            "time": "2021-01-30",
+                            "pos": 47,
+                            "neg": 7,
+                            "neu": 46,
+                            "sentiment": [
+                                {
+                                    "title": "Positive",
+                                    "value": 47
+                                },
+                                {
+                                    "title": "Negative",
+                                    "value": 7
+                                },
+                                {
+                                    "title": "Neutral",
+                                    "value": 46
+                                }
+                            ],
+                            "insight_short": "DECCA REJECTING THE BEATLES - GREATEST MISTAKE OF ALL TIME?",
+                            "insight_full": "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962. The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label. The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history. Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character.",
+                            "insight_pos": [
+                                "The positive comments claim that the Beatles never would have been as big of a success without George Martin who ended up signing them to EMI\u2019s Parlophone label"
+                            ],
+                            "insight_neg": [
+                                "The negativt comments consist mainly of people accusing Decca of making the greatest mistake in history"
+                            ],
+                            "insight_neu": [
+                                "Neutral comments were a mix of relevant comments related to the post, and other less relevant comments of spam-character."
+                            ],
+                            "insight_eng": [
+                                "The post composed +50% more likes and +70% more comments than average, the high amount of comments is a result of the discussion of whether Decca made a mistake rejecting the Beatles after their New Year\u2019s Day audition in 1962"
+                            ],
+                            "insight_quote": [
+                                "George Martin is the fifth member of the Beatles!",
+                                " I would never trust Decca with anything after the 1962-fiasko"
+                            ],
+                            "img": "beatles",
+                            "followers": 4956854,
+                            "channel": "instagram"
+                        }
+                    ],
+                    "color": "#374737"
+                }
+            ]
+        }
+    ]
+}

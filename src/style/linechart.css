@@ -1,0 +1,92 @@
+
+.line {
+  /*stroke-width: 2;*/
+  fill: none;
+}
+
+.axis path {
+  stroke: black;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}
+
+.dot_pos {
+    height: 10px;
+    width: 10px;
+    background-color: #63A37B;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.dot_neg {
+    height: 10px;
+    width: 10px;
+    background-color: #F15645;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.dot_neu {
+    height: 10px;
+    width: 10px;
+    background-color: #7D7D7D;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dot_Comments {
+    height: 10px;
+    width: 10px;
+    background-color: #005282;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dot_Likes {
+    height: 10px;
+    width: 10px;
+    background-color: #336D90;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dot_Shares {
+    height: 10px;
+    width: 10px;
+    background-color: #6692AC;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .linechartContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .lineDropdownContainer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .LinedropDown{
+    font-family: IBM Plex Sans;
+    border-radius: 8px;
+    color: #132533;
+    border-color: #132533;
+    margin-top: 10px;
+}
+
+.line_infoContainer{
+  align-items: center;
+  
+}
+
+.lineContainer{
+    border-top: 1px solid rgb(187, 187, 187);
+    margin-top: 20px;
+    padding-top: 20px;
+}

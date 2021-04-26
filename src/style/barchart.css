@@ -1,0 +1,95 @@
+
+
+  body {
+    /*font-size: 10px;*/
+    font-family: IBM Plex Sans;
+
+  }
+  
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .y0.axis path,
+  .y0.axis line {
+    stroke: #005282;
+
+  }
+  
+  .y1.axis path,
+  .y1.axis line {
+    stroke: #63A37B;
+
+  }
+  
+  .x.axis path,
+  .x.axis line {
+    stroke: black;
+  }
+  
+  .x.axis text {
+    font-family: IBM Plex Sans;
+  }
+
+  .y0.axis text{
+    font-size: 10px;
+    fill: #005282;
+    font-family: IBM Plex Sans;
+
+  }
+  .y1.axis text{
+    font-size: 10px;
+    fill: #63A37B;
+    font-family: IBM Plex Sans;
+
+  }
+
+  #barChart{
+    overflow: visible;
+  }
+
+  .tick{
+    overflow: visible;
+
+  }
+  
+  .barchartContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+  .legend{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .Active{
+    opacity: 1;
+  }
+
+  .Inactive{
+    opacity: 0.5;
+  }
+
+  /* TOOLTIP */
+
+.bar_info{
+  font-size: 15px;
+}
+
+.bar_infoContainer{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.infoTextBar{
+  color: #4d4d4d;
+  font-style: italic;
+  font-size: 12px;
+}

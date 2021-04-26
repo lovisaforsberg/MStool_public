@@ -1,0 +1,33 @@
+.navBarContainer{
+    background-color: #132533;
+    display: flex;
+    align-items: stretch;
+    align-content: stretch;
+    margin-bottom: 15px;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.navbarHeadline{
+    color:white;
+    font-family: Source Serif Pro;
+}
+
+.navbarBtn{
+    background: #E5E5E5;
+    border-radius: 10px;
+    color: #132533;
+    width: 100px;
+    height: 30px;
+    font-style: normal;
+    font-weight: normal;
+    border: none;
+    font-family: IBM Plex Sans;
+    margin: 5px;
+    cursor: pointer;
+
+    /*box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);*/
+}
